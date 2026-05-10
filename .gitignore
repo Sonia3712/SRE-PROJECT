@@ -5,7 +5,6 @@ target/
 
 # IDE files
 .idea/
-.vscode/
 *.iml
 *.ipr
 *.iws
@@ -30,3 +29,5 @@ mysql-connector-j-*.jar
 
 # Personal configuration files
 config.properties
+config.bat
+node_modules
